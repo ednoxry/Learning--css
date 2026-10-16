@@ -61,7 +61,7 @@ css-playground/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/css-playground.git
+git clone https://github.com/ednoxry/css-playground.git
 ```
 
 Entre na pasta:
@@ -108,9 +108,9 @@ interfaces simples em experiências visuais criativas.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **SEU NOME**.
+Desenvolvido por ednoxry.
 
-- GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
+- GitHub: [@ednoxry](https://github.com/ednoxry)
 
 ---
 
